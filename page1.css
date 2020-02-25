@@ -1,0 +1,67 @@
+html {
+    background: #112f3d;
+    background-image: url("elements/background_sciencecomm2.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 7em 1em 20em;
+}
+
+#bodyWrapper {
+    background: #112f3d;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+body {
+    color: #fff1c9;
+    font-family: brandon-grotesque, sans-serif;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 730px;
+    padding: 6em 0em 20em;
+}
+
+h1 {
+    color:#fec20f;
+    background: #112f3d;
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+
+h2 {
+    color: #fff1c9;
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 8px;
+}
+
+h3 {
+    color: #fff1c9;
+    line-height: normal;
+    font-size: 24px;
+}
+
+p {
+    color: #fff1c9; 
+}
+
+.ex1 {
+    color: #112f3d;
+    background-color: #fff1c9;
+    outline-style: solid;
+    padding: .25em 1em .25em 1em;
+}
+
+a {
+    color: #fec20f;
+    text-decoration: none;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 1000;
+    letter-spacing: 6px;
+}
+
+a:hover {
+    color: #b7dce5;
+}
